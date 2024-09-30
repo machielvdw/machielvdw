@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Machiel</h1>
 <h3 align="center">A Software Developer from South Africa 🇿🇦</h3>
 
-- 🔭 I’m currently working on [Lowdefy](lowdefy.com), some personal projects, and improving my craft.
+<p align="center">🔭 I’m currently working on [Lowdefy](lowdefy.com), some personal projects, and improving my craft.</p>
 
 <br/>
 
